@@ -1,0 +1,3 @@
+export enum Clase { A = "A", B = "B", C = "C", AB = "A" + "B" }
+
+//Obvio que no es necesario que el string asociado sea igual al valor del enumerado...

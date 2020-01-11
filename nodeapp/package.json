@@ -1,0 +1,16 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "Aplicacion con conceptos de TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node built/index.js"
+  },
+  "author": "Alex Humar",
+  "license": "ISC",
+  "dependencies": {
+    "@types/lodash": "^4.14.116",
+    "lodash": "^4.17.11"
+  }
+}

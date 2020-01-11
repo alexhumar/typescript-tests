@@ -1,0 +1,1 @@
+export enum Rango { Manager = 1, Chief = 2, CEO = 3 }

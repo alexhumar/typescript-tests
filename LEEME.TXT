@@ -1,0 +1,1 @@
+- Es mejor usar modulos en TypeScript antes que namespaces, ya que te aseguras que dentro del modulo no va a haber conflictos de nombres porque el scope se restringe al module nomas, y tenes la ventaja de que el prefijo de las clases lo define quien importa el modulo, asi que de esa forma se asegura que no hayan conflictos de nombres.
